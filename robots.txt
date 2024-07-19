@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://muranesa.github.io/sitemap
+Sitemap: https://muranesa.github.io/app/sitemap
+Sitemap: https://muranesa.github.io/assets/sitemap
+Sitemap: https://muranesa.github.io/css/sitemap
+Sitemap: https://muranesa.github.io/includes/sitemap
+Sitemap: https://muranesa.github.io/item/sitemap
+Sitemap: https://muranesa.github.io/src/sitemap
